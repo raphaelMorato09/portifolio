@@ -1,0 +1,63 @@
+.imagem{
+    padding-top: 20px ;
+    padding-bottom: 20px;
+}
+.lista{
+    color:white;
+    background-color: #343a40;
+    padding-left: auto;
+    
+}
+.anuncio{
+    padding-top: 20px;
+    padding-bottom: 400px;
+}
+.footer{
+    background-color: #343a40;
+    padding-bottom: 9px;
+}
+.rodape{
+        color: white;
+        padding-top: 9px;
+}
+.jumbotron{
+    padding: 0px;
+    margin-bottom: 0px;
+}
+.body{
+    background-image: url(img/Fundo-Site\ 1.png);
+}
+.des{
+    background-color: #59AFFF;
+}
+.fonte1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ling{
+    background-color: #0085FF;
+}
+.fonte2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.marcadores{
+    background-color: #003260;
+}
+.fonte-marcadores{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.hardware{
+    background-color: #47FF4F;
+}
+.fonte-hardware{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.frameworks{
+    background-color: #00FF0A;
+}
+.fonte-frameworks{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.oportunidade{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #0085FF;
+}

@@ -1,0 +1,41 @@
+.footer{
+    background-color: #343a40 ;
+    padding-bottom: 9px;
+}
+.rodape{
+    color: white;
+    padding-top: 9px;
+}
+.formu{
+    background-color: #59AFFF;
+    padding-bottom: 30px;
+    margin-top: 150px;
+}
+.formulario{
+    margin-top: 40px;
+}
+.form-control{
+    margin-top: 20px;
+}
+.titulo{
+    margin-top: 40px;
+}
+.jumbotron{
+    padding: 0px;
+    margin-bottom: 0px;
+}
+.body{
+    background-image: url(img/fundo-contato.png);
+}
+.form-cont{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+.icon{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+    background-color: #0085FF;
+}
